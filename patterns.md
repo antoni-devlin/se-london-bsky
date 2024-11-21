@@ -6,6 +6,6 @@
 
 # Exclude pattern
 
-```
-[Ll]ewis\s*[Hh]amilton|Mean time|[Gg]reenwich [Vv]illage
+```regex
+[Ll]ewis\s*[Hh]amilton|Mean time|[Gg]reenwich [Vv]illage|jp\.mercari\.com
 ```
