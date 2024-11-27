@@ -1,7 +1,7 @@
 # Include pattern
 
 ```regex
-(\bSE(1[0-9]?|2[0-8]?)\b)|[Ss]outh[- ]?[Ee]ast[- ]?[Ll]ondon|[Ss][Ee][- ]?[Ll]ondon|[Ll]ewisham|[Bb]exley|[Bb]romley|[Gg]reenwich|[Dd]eptford|[Bb]ussey [Bb]uilding|[Pp]eckham|([Mm]odel|[Dd]eptford|[Ee]ast [Ss]treet|[Ll]ewisham|[Gg]reenwich|[B]lue)( [Mm]arket)|([Mm]atchstick [Pp]iehouse|[Pp]rintworks|[Ss]tudio 338|[Tt]he [Bb]ird's [Nn]est|[Cc][Ll][Ff] [Aa]rt [Ll]ounge|[Pp]eckham [Pp]lex|[Pp]eckham [Ll]evels|[Tt]he [Aa]lbany [Dd]eptford|[Tt]he [Mm]ontague [Aa]rms|[Gg]oldsmiths [Cc][Cc][Aa]|[Gg]reenwich [Pp]icture[ -]?[Hh]ouse|[Bb]eckenham [Pp]lace [Pp]ark [Mm]ansion|[Tt]he [Ff]ox and [Ff]irkin|[Aa]mersham [Aa]rms|[Ii]vy [Hh]ouse [Nn]unhead|[Tt]he [Ww]hite [Hh]art [Mm]ile [Ee]nd|[Tt]he [Dd]en [Cc]afé|[Vv]enue [Mm][Oo][Tt]|[Cc]orsica [Ss]tudios|[Tt]he [Oo]ld [Pp]olice [Ss]tation)
+(\bSE(1[0-9]?|2[0-8]?)\b)|south[- ]?east[- ]?London|se[- ]?london|lewisham|bexley|bromley|greenwich|deptford|bussey building|peckham|(model|deptford|east street|lewisham|greenwich|blue)( market)|(matchstick piehouse|printworks|studio 338|the bird's nest|clf art lounge|peckham plex|peckham levels|the albany deptford|the montague arms|goldsmiths cca|greenwich picture[ -]?house|beckenham place park mansion|the fox and firkin|amersham arms|ivy house nunhead|the white hart mile end|the den café|venue mot|corsica studios|the old police station)
 ```
 
 # Exclude pattern
