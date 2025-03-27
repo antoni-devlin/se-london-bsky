@@ -7,5 +7,5 @@
 # Exclude pattern
 
 ```regex
-[Ll]ewis\s*[Hh]amilton|Mean time|[Gg]reenwich [Vv]illage|jp\.mercari\.com
+\b(hamilton|mean time|greenwich village|jp\.mercari\.com|west greenwich)\b
 ```
